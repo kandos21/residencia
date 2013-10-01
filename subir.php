@@ -136,7 +136,7 @@
             mysql_query($sql_representante);
             mysql_query($sql_beneficiario);
             mysql_query($sql_monto);
-            mysql_query($sql_expediente);*/
+            mysql_query($sql_expediente); */
 
            
 
